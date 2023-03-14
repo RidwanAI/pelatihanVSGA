@@ -1,0 +1,14 @@
+[
+    {
+        "Pilihan Perhitungan Luas Bangun Datar": "Luas Segitiga",
+        "Alas": "10",
+        "Tinggi": "5",
+        "Luas Total Segitiga": "25"
+    },
+    {
+        "Pilihan Perhitungan Luas Bangun Datar": "Luas Segitiga",
+        "Alas": "123",
+        "Tinggi": "111",
+        "Luas Total Segitiga": "6826.5"
+    }
+]

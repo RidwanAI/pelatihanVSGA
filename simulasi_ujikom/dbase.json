@@ -1,0 +1,90 @@
+[
+    {
+        "CabangDipilih": "Bali",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "081283069283",
+        "JumlahPakaian": "25",
+        "TagihanAwal": 125000,
+        "Diskon": 6250
+    },
+    {
+        "CabangDipilih": "Bandung",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "30",
+        "TagihanAwal": 150000,
+        "Diskon": 7500
+    },
+    {
+        "CabangDipilih": "Bandung",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "30",
+        "TagihanAwal": 150000,
+        "Diskon": 7500
+    },
+    {
+        "CabangDipilih": "Bandung",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "30",
+        "TagihanAwal": 150000,
+        "Diskon": 7500
+    },
+    {
+        "CabangDipilih": "Bandung",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "30",
+        "TagihanAwal": 150000,
+        "Diskon": 7500
+    },
+    {
+        "CabangDipilih": "Bandung",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "30",
+        "TagihanAwal": 150000,
+        "Diskon": 7500
+    },
+    {
+        "CabangDipilih": "Bandung",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "30",
+        "TagihanAwal": 150000,
+        "Diskon": 7500
+    },
+    {
+        "CabangDipilih": "Bandung",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "30",
+        "TagihanAwal": 150000,
+        "Diskon": 7500
+    },
+    {
+        "CabangDipilih": "Jakarta",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "12",
+        "TagihanAwal": 60000,
+        "Diskon": null
+    },
+    {
+        "CabangDipilih": "Jakarta",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "12",
+        "TagihanAwal": 60000,
+        "Diskon": null
+    },
+    {
+        "CabangDipilih": "Surabaya",
+        "NamaPelanggan": "Muhammad Ridwan",
+        "NoHp": "2342345",
+        "JumlahPakaian": "12",
+        "TagihanAwal": 60000,
+        "Diskon": null
+    }
+]
